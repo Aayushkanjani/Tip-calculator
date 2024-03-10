@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    background-image: url(64b9451865a683fd39bccfa1_5f6e93d250a6d04f4eae9f02_Backgrounds-WFU-thumbnail-\(size\).jpeg);
+}
+#calculator{
+    background-color: rgb(219, 124, 216); 
+    /* background-color: transparent; */
+    border: none;
+    margin: 14px;
+    padding: 20px 25px;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 40%;
+    /* outline: none; */
+}
+
+#billAmt{
+    background-color: rgba(235, 188, 234, 0.751);
+    padding: 7px;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#servicequality{
+    background-color: rgba(235, 188, 234, 0.751);
+    padding: 7px;
+    font-weight: 600;  
+    margin-top: 5px;
+}
+#calculate{
+    background-color:rgb(219, 124, 216);
+    padding: 15px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    border-radius: 1rem;
+
+}
